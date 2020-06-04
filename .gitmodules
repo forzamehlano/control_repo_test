@@ -1,0 +1,3 @@
+[submodule "site-modules/puppetlabs-ntp"]
+	path = site-modules/puppetlabs-ntp
+	url = https://github.com/puppetlabs/puppetlabs-ntp.git
