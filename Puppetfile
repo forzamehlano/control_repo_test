@@ -11,4 +11,4 @@
 
 mod 'ntp',
   git: 'https://github.com/puppetlabs/puppetlabs-ntp.git',
-  branch: master
+  branch: 'master'
